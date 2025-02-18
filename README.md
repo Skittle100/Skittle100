@@ -6,7 +6,7 @@ Because AI won’t build itself (yet). Here you’ll find experiments, algorithm
 
 🛠 Installation (at your own risk)
 Clone the repo like a true hacker:
-git clone https://github.com/Skittle100/repository.git  
+git clone https://github.com/Skittle100
 
 Enter the void:
 cd repository  
